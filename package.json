@@ -1,11 +1,6 @@
 {
   "type": "module",
-  "devDependencies": {
-    "@types/gulp": "^4.0.17",
-    "del": "^7.1.0",
-    "gulp": "^5.0.0",
-    "ts-node": "^10.9.2",
-    "tsx": "^4.15.6",
-    "typescript": "^5.4.5"
+  "dependencies": {
+    "gulp": "^5.0.0"
   }
 }
